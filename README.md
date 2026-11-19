@@ -1,3 +1,6 @@
+visit at:
+https://tecnova-academy.netlify.app
+
 # TechNova Computer Academy - Website
 
 Static website (HTML5, CSS3, vanilla JavaScript) for a sample Computer & IT Training Institute.
